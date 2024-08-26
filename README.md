@@ -71,11 +71,11 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Create an html file with the name of "index" in the root of the project
 - [x] Add HTML Boilerplate to the document
 - [x] Set the document title to be "Jon Doe's resume".
-- [ ] Set the page heading to be "Jon Doe"
-- [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
-  - [ ] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
-  - [ ] The image alternative text should match the page title.
+- [x] Set the page heading to be "Jon Doe"
+- [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
+- [x] Add an image with required and important attributes
+  - [x] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
+  - [x] The image alternative text should match the page title.
 - [ ] Add a section heading with the content of "About Me".
 - [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
 - [ ] Add the section heading "My Skills" with h2 tag
