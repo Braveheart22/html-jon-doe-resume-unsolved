@@ -53,7 +53,7 @@ This assignment should prove that a student is able to:
 - [x] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+  - [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
   - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
@@ -92,11 +92,11 @@ All the tasks in the requirements are related to the index.html file! Consider "
 
 ### Part 2: Testing the magic of id and class attributes
 
-- [ ] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
-- [ ] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
-- [ ] The page heading should have the id of "candidate-name"
-- [ ] The desired role section heading should the id of "candidate-desired-role"
-- [ ] The "About me" section heading should have an id of "about-me".
+- [x] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
+- [x] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
+- [x] The page heading should have the id of "candidate-name"
+- [x] The desired role section heading should the id of "candidate-desired-role"
+- [x] The "About me" section heading should have an id of "about-me".
 - [ ] The image should have the id of "candidate-image"
 - [ ] The bio paragraph should have a class name of "candidate-bio"
 - [ ] The skills section heading should have the id of "skills"
