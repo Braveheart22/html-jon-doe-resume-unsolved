@@ -76,9 +76,9 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add an image with required and important attributes
   - [x] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
   - [x] The image alternative text should match the page title.
-- [ ] Add a section heading with the content of "About Me".
-- [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
-- [ ] Add the section heading "My Skills" with h2 tag
+- [x] Add a section heading with the content of "About Me".
+- [x] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
+- [x] Add the section heading "My Skills" with h2 tag
 - [ ] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
 - [ ] Add the section heading "My Hobbies" with h2 tag
 - [ ] Add the UNORDERED list of 4 hobbies
